@@ -1,0 +1,15 @@
+{
+    "name": "barebones/installer",
+    "description": "Barebones installer",
+    "keywords": ["wordpress","blank theme","barebones"],
+    "homepage": "https://benchmark.co.uk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benchmark",
+            "email": "hello@benchmark.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
